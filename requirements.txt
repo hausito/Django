@@ -1,0 +1,13 @@
+certifi
+charset-normalizer
+Django
+gunicorn
+idna
+Pillow
+python-dateutil
+requests
+sqlparse
+tzdata
+urllib3
+whitenoise
+asgiref
